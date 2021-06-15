@@ -6,7 +6,7 @@ public class Fred : MonoBehaviour
 {
 
     public Button but = null;
-    public string value = "Fred";
+    public string value = "Fred1.1.1";
     // Start is called before the first frame update
     void Start()
     {
