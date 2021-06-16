@@ -3,5 +3,12 @@
   "displayName": "Unity Package Test Fred",
   "version": "1.0.1",
   "unity": "2019.2",
-  "description": "Unity test for Fred."
+  "description": "Unity test for Fred.",
+  "samples": [
+    {
+      "displayName": "Fred's Button",
+      "description": "A button with Fred script",
+      "path": "Samples~/FredUI"
+    }
+  ]
 }
