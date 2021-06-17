@@ -4,9 +4,9 @@ using UnityEngine;
 using UnityEngine.UI;
 public class Fred : MonoBehaviour
 {
-
+    // This will be in tag second
     public Button but = null;
-    public string value = "Fred1.1.1";
+    public string value = "Fred";
     // Start is called before the first frame update
     void Start()
     {
