@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEngine.UI;
 public class Fred : MonoBehaviour
 {
-    // This will be in tag second
+    // past tag
     public Button but = null;
     public string value = "Fred";
     // Start is called before the first frame update
